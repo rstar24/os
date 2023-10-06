@@ -1,1 +1,3 @@
 /OS/**
+# for ignoring the class files
+*.class
