@@ -1,0 +1,35 @@
+Category 1 : Simulate the following CPU scheduling algorithms in C++ displaying Waiting Time and  Turnaround Time 
+
+
+a) FCFS with and without arrival time
+b) SJF with and without arrival time 
+c) Round Robin with and without arrival time 
+d) Priority with and without arrival time
+e) Designing your own Scheduling Algorithm and its implementation
+
+Category 2 : Simulate the following Semaphore based algorithms in C++ using Threads
+
+a) Write a program to simulate producer-consumer problem using Semaphores
+b) Write a program to simulate reader writer problem using Semaphores
+c) Write a  program to simulate Dining Philosopher problem using Semaphores
+
+
+Category 3 : Simulate the following Deadlock Avoidance algorithms in C++. 
+
+a)	Write a C++ program to simulate Bankers Algorithm for deadlock avoidance
+
+
+Category 4 : Simulate the following Disk Scheduling algorithms in C++. 
+
+a)	FIFO disk Scheduling
+b)	SSTF disk Scheduling
+c)	Scan disk Scheduling
+d)	Look disk Scheduling 
+e)	 C-Scan disk Scheduling
+f)	C-Look disk Scheduling
+
+Category  5: Simulate the following Demand Paging algorithms in C++.
+
+a)	FIFO Demand Paging
+b)	LRU Demand Paging
+c)	Optimal Page Replacement
