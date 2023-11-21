@@ -1,7 +1,7 @@
 Category 1 : Simulate the following CPU scheduling algorithms in C++ displaying Waiting Time and  Turnaround Time 
 
 
-a) FCFS with and without arrival time
+a) FCFS with and without arrival time 
 b) SJF with and without arrival time 
 c) Round Robin with and without arrival time 
 d) Priority with and without arrival time
